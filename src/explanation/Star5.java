@@ -12,10 +12,10 @@ public class Star5 {
             star += "*";
         }
 
-        for (int i = 0; i < 3; i++) {
+        /*for (int i = 0; i < 3; i++) {
             for (int j = 0; j < ; j++) {
                 
             }
-        }
+        }*/
     }
 }
